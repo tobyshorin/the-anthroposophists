@@ -1,6 +1,6 @@
 # The Anthroposophists
 
-A daily spotlight and a growing directory of Waldorf alumni and anthroposophists, past and present.
+A growing directory of Waldorf alumni and anthroposophists who have gone on to do great things.
 
 **Live:** https://tobyshorin.github.io/the-anthroposophists/
 
