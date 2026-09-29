@@ -78,8 +78,10 @@ Every portrait comes from Wikimedia Commons and is used under the license below.
 | Arthur Zajonc | Supplied by site owner | Not openly licensed | — |
 | Michael Ende | Supplied by site owner | Not openly licensed | — |
 | Bella Freud | Supplied by site owner | Not openly licensed | — |
+| Rachel Podger | Supplied by site owner | Not openly licensed | — |
+| M. C. Richards | Supplied by site owner | Not openly licensed | — |
 
-No openly licensed portrait was found for Helmy Abouleish, Rachel Podger, M. C. Richards; they appear with name avatars.
+No portrait yet for Helmy Abouleish; he appears with a name avatar.
 
 ## Typeface
 
