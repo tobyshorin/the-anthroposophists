@@ -1,6 +1,6 @@
 # The Anthroposophists
 
-A daily spotlight and a growing directory of living Waldorf alumni and anthroposophists.
+A daily spotlight and a growing directory of Waldorf alumni and anthroposophists, past and present.
 
 **Live:** https://tobyshorin.github.io/the-anthroposophists/
 
@@ -8,16 +8,16 @@ The site is one self-contained `index.html`: the Antropos typeface and every por
 
 ## Who's included
 
-Two kinds of people, all living:
+Two kinds of people, living and historical:
 
 - **Waldorf alumni** attended a school descended from the Freie Waldorfschule in Stuttgart, founded in 1919.
-- **Anthroposophists** work within the movement today, in medicine, enterprise, scholarship and politics.
+- **Anthroposophists** took up Steiner's work as collaborators, members of the Society, or serious readers. Historical figures show their birth and death years.
 
 Inclusion records a biographical fact, not an endorsement of Steiner's ideas.
 
 ## Adding someone
 
-Add an entry to the `people` array in `index.html` with a name, kind (`waldorf` or `anthro`), tagline, tags, connection, notable work, a Wikipedia link, and an openly licensed portrait. Credit the photographer in `CREDITS.md`.
+Add an entry to the `people` array in `index.html` with a name, kind (`waldorf` or `anthro`), tagline, tags, connection, notable work, a Wikipedia link, an openly licensed portrait, and `life` (birth–death years) for anyone no longer living. Credit the photographer in `CREDITS.md`.
 
 ## Credits
 
