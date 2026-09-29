@@ -73,8 +73,9 @@ Every portrait comes from Wikimedia Commons and is used under the license below.
 | Kai Wiesinger | Chris Noltekuhlmann | CC BY-SA 3.0 de | [file](https://commons.wikimedia.org/wiki/File:Kai_Wiesinger.jpg) |
 | Stefan Schaefer | Cyristhelad | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:StefanSchaefer_2015.jpg) |
 | Michael Pärt | Estonian Foreign Ministry | CC BY 2.0 | [file](https://commons.wikimedia.org/wiki/File:Michael_P%C3%A4rt_2025.jpg) |
+| Jasper van Brakel | RSF Social Finance | Used with credit to RSF | [source](https://rsfsocialfinance.org/our-board-and-staff/) |
 
-No openly licensed portrait was found for Michael Ende, Jasper van Brakel, Frances Bean Cobain, Arthur Zajonc, Helmy Abouleish, Rachel Podger, Bella Freud, M. C. Richards; they appear with name avatars.
+No openly licensed portrait was found for Michael Ende, Frances Bean Cobain, Arthur Zajonc, Helmy Abouleish, Rachel Podger, Bella Freud, M. C. Richards; they appear with name avatars.
 
 ## Typeface
 
