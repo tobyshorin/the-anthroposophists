@@ -32,6 +32,33 @@ Every portrait comes from Wikimedia Commons and is used under the license below.
 | Götz Rehn | Dorothee van Bömmel | CC BY-SA 2.0 de | [file](https://commons.wikimedia.org/wiki/File:Alnatura_Goetz_Rehn_1.jpg) |
 | Peter Selg | Foto: Charlotte Fischer | CC BY 2.5 | [file](https://commons.wikimedia.org/wiki/File:Peter_Selg_2012_%C2%A9_Charlotte_Fischer.png) |
 | Gerald Häfner | Bengt Oberger | CC BY-SA 3.0 | [file](https://commons.wikimedia.org/wiki/File:Gerald_H%C3%A4fner_MEP_01.JPG) |
+| Albert Watson | Christopher Michel | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:Albert_Watson_Review.jpg) |
+| Tomas Maier | Morpheusmedia | CC BY-SA 3.0 | [file](https://commons.wikimedia.org/wiki/File:Tomas_Maier.jpg) |
+| Chris Elliott | Gage Skidmore | CC BY-SA 3.0 | [file](https://commons.wikimedia.org/wiki/File:Chris_Elliott_by_Gage_Skidmore_(cropped).jpg) |
+| August Diehl | Maximilian Bühn | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:August_Diehl_Photo_Call_Der_junge_Karl_Marx_Berlinale_2017_02.jpg) |
+| Julia Franck | Thorsten Greve | CC BY-SA 3.0 de | [file](https://commons.wikimedia.org/wiki/File:Julia_Franck_%E2%80%93_Portr%C3%A4t_von_Thorsten_Greve.jpeg) |
+| Kate Christensen | Taosmanila | CC0 | [file](https://commons.wikimedia.org/wiki/File:Kate_Christensen.jpg) |
+| Graham Kerr | Tessa Kerr | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:Graham_Kerr.jpg) |
+| Caroline Evers-Swindell | New Zealand Government, Office of the Governor-General | CC BY 4.0 | [file](https://commons.wikimedia.org/wiki/File:Caroline_Evers-Swindell_2009_(cropped).jpg) |
+| Georgina Evers-Swindell | New Zealand Government, Office of the Governor-General | CC BY 4.0 | [file](https://commons.wikimedia.org/wiki/File:Georgina_Earl_2009_(cropped).jpg) |
+| Juliane Köhler | Martin Kraft | CC BY-SA 3.0 | [file](https://commons.wikimedia.org/wiki/File:MJK30759_Juliane_K%C3%B6hler_(Berlinale_2017).jpg) |
+| Karoline Herfurth | Harald Krichel | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:Karoline_Herfurth-68597.jpg) |
+| Benjamin Agosto | Dave Hogg from Royal Oak, MI, USA | CC BY 2.0 | [file](https://commons.wikimedia.org/wiki/File:Ben_Agosto.jpg) |
+| Sean Yates | YellowMonkey/Blnguyen | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:Sean_Yates_2.jpg) |
+| Jesse Cook | Rrburke | CC BY 3.0 | [file](https://commons.wikimedia.org/wiki/File:Jesse_Cook_143_cropped.JPG) |
+| Andreas Carlgren | Magnus Fröderberg | CC BY 2.5 dk | [file](https://commons.wikimedia.org/wiki/File:Sveriges_miljominister_Andreas_Carlgren_vid_Nordiska_Radets_session_i_Oslo._2007-10-31._Foto-_Magnus_Froderberg-norden.org.jpg) |
+| Mary Harrington | Elekes Andor | CC BY 4.0 | [file](https://commons.wikimedia.org/wiki/File:Mary_Harrington.jpg) |
+| Emma Härdelin | Astrid Eriksson Tropp | CC BY-SA 3.0 | [file](https://commons.wikimedia.org/wiki/File:Emma_H%C3%A4rdelin_2018_(facecrop).jpeg) |
+| Vebjørn Sand | Haakon Sand | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:Vebj%C3%B8rn_Sand,_Roseslottet,_Oslo,_2020.jpg) |
+| Janove Ottesen | Birgit Fostervold | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:Janove-Ottesen_TonsOfRock-2025.jpg) |
+| Martina Sorbara | Tabercil | CC BY-SA 3.0 | [file](https://commons.wikimedia.org/wiki/File:Martina_Sorbara_at_Festival_of_Friends_2013.jpg) |
+| Robert Stadlober | Siebbi | CC BY 3.0 | [file](https://commons.wikimedia.org/wiki/File:Robert_Stadlober_Berlinale_2008.jpg) |
+| Heiner Lauterbach | Stuart Mentiply | GFDL 1.2 | [file](https://commons.wikimedia.org/wiki/File:Heiner_Lauterbach_by_Stuart_Mentiply.jpg) |
+| Kai Wiesinger | Chris Noltekuhlmann | CC BY-SA 3.0 de | [file](https://commons.wikimedia.org/wiki/File:Kai_Wiesinger.jpg) |
+| Stefan Schaefer | Cyristhelad | CC BY-SA 4.0 | [file](https://commons.wikimedia.org/wiki/File:StefanSchaefer_2015.jpg) |
+| Michael Pärt | Estonian Foreign Ministry | CC BY 2.0 | [file](https://commons.wikimedia.org/wiki/File:Michael_P%C3%A4rt_2025.jpg) |
+
+No openly licensed portrait was found for Frances Bean Cobain, Jasper van Brakel, Arthur Zajonc, Helmy Abouleish, Rachel Podger, Bella Freud; they appear with name avatars.
 
 ## Typeface
 
