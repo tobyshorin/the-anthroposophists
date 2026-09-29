@@ -77,8 +77,9 @@ Every portrait comes from Wikimedia Commons and is used under the license below.
 | Frances Bean Cobain | Supplied by site owner | Not openly licensed | — |
 | Arthur Zajonc | Supplied by site owner | Not openly licensed | — |
 | Michael Ende | Supplied by site owner | Not openly licensed | — |
+| Bella Freud | Supplied by site owner | Not openly licensed | — |
 
-No openly licensed portrait was found for Helmy Abouleish, Rachel Podger, Bella Freud, M. C. Richards; they appear with name avatars.
+No openly licensed portrait was found for Helmy Abouleish, Rachel Podger, M. C. Richards; they appear with name avatars.
 
 ## Typeface
 
